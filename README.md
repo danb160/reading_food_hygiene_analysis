@@ -94,14 +94,14 @@ While their approach could vary, taking the above in mind they could target thei
 
 * **Business Types** Retail shops, takeaways/sandwich shops, and restaurants/cafes
 
-* **Specific Businesses** Non-compliant businesses in the RG1 area saved to `data/rg1_target_businesses.csv`
+* **Specific Businesses** Non-compliant businesses in the RG1 area saved to `data/target_list_RG1.csv`
 
 ---
 ## Recognised Limitations
 
 - **Point-in-time Snapshot** - The food standards agency dataset that has been used for this project represents a specific snapshot in time when this project has been completed August 2026. Due to the raw file being dynamic (a live working document), it is subject to monthly change and updates.
 
-- **Lack of Qualitative Context** - While low ratings indicate a need for improvement the data does not explicitly tell us the eact cause of the failure of the businesses.
+- **Lack of Qualitative Context** - While low ratings indicate a need for improvement the data does not explicitly tell us the exact cause of the failure of the businesses.
 
 ---
 ## Data Compliance and Legal Use
