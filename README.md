@@ -63,7 +63,7 @@ While a low rating does not explicitly pinpoint a specific failure, it is a stro
 
 - **Handling Missing Data:** Dropped rows missing required ratings, imputed missing values (addresses and postcodes) with Unknown to protect valid hygiene records.
 
-**Feature Engineering:** Extracted postcode districts from full postcodes (e.g., RG1, RG2, RG30) to enable regional categorisation of businesses across Reading.
+- **Feature Engineering:** Extracted postcode districts from full postcodes (e.g., RG1, RG2, RG30) to enable regional categorisation of businesses across Reading.
 
 ---
 
