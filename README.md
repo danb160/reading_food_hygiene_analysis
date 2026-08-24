@@ -46,11 +46,15 @@ While a low rating does not explicitly pinpoint a specific failure, it is a stro
 ---
 ## How the project is organised
 
-`data`: Data files used for the project.
+`data`: Data files used for the project:
 - [UK Food Standards Agency - Open Data CSV](https://safhrsprodstorage.blob.core.windows.net/opendatafileblobstorage/FHRS_All_en-GB.csv) (This has been omitted due to github max file size)
 - `data/reading_food_hygiene_data.csv` - Filtered Reading dataset
 - `data/rfh_clean.csv` - Cleaned Reading dataset
 - `data/target_list_RG1.csv` - Target dataset for RG1 (See below in Conclusion)
+
+`jupyter_notebooks`: Notebooks used for the project:
+- `jupyter_notebooks/reading_food_hygiene_prep.ipynb` - Data preparation and cleaning
+- `jupyter_notebooks/rfh_analysis_and_visualisations.ipynb` - Data analysis and visualisation
 
 ---
 ## Methodology and Data Management
